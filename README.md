@@ -5,7 +5,6 @@
   
 ![HWSeo GitHub stats](https://github-readme-stats.vercel.app/api?username=userHWSEO&show_icons=true&theme=merko)
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnjs4826)](https://solved.ac/gmldnjs4826/)
  </div>
 <div align=center>
 <br>
