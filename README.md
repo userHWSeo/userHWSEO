@@ -31,11 +31,11 @@
 />
   
 <img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
+  src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=React&logoColor=white"
 />
 
   <img
-  src="https://img.shields.io/badge/Redux-#764ABC?style=flat-square&logo=Redux&logoColor=white"
+  src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"
 />
 
 
