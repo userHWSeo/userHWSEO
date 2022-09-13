@@ -31,7 +31,7 @@
 />
   
 <img
-  src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=React&logoColor=white"
+  src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=Styled-Components&logoColor=white"
 />
 
   <img
